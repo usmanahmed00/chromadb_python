@@ -1,0 +1,4 @@
+This is a test document.
+Another document for testing.
+More text data to store in the vector database.
+Yet another example document.
